@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+.metadata
+*.mode1v3
+*.pbxuser
+*.xcuserdatad
+*.xccheckout
+*.xcscmblueprint
+build
+Carthage/Build
+
